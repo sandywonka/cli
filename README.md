@@ -17,13 +17,13 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python main.py
-python main.py -t json
-python main.py -t text
-python main.py -o test.json
-python main.py -t json -o testing.json
+python Sandi_Herdiansyah.py
+python Sandi_Herdiansyah.py -t json
+python Sandi_Herdiansyah.py -t text
+python Sandi_Herdiansyah.py -o test.json
+python Sandi_Herdiansyah.py -t json -o testing.json
 ```
 ## Help
 ```bash
-python main.py -h
+python Sandi_Herdiansyah.py -h
 ```
